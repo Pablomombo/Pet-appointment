@@ -1,7 +1,5 @@
 # Pet appointment
 
-In the project directory, you can run:
-
 ### Languages
 
 - Reactjs
