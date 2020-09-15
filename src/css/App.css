@@ -11,7 +11,7 @@
   font-size: 1.1em;
   border: 1px solid #a3b1bd;
   border-radius: 5px;
-  background-color: #a3b1bd;
+  background-color: white;
 }
 
 .appointment-list .pet-item {
@@ -24,7 +24,7 @@
 
 .appointment-list .pet-name {
   font-weight: 600;
-  color: white;
+  color: black;
   font-size: 1.3em;
   line-height: 100%;
 }
