@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import { FaPlus } from 'react-icons/fa';
 import { FaTimes } from 'react-icons/fa';
 import Moment from 'react-moment';
 
